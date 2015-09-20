@@ -26,3 +26,10 @@ position: absolute;
 .two{
 color: white;
 }
+.slogan{
+    position: absolute;
+    top: 200px;
+    font-size: 60px;
+    color: #FC3437;
+    
+}
