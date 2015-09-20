@@ -1,0 +1,28 @@
+.header-bg{
+    position: absolute;
+background: url(../img/bg.jpg);
+    height: 695.5px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    left: 0px;       
+}
+.blurred{
+ -webkit-filter: brightness(30%);
+-moz-filter: brightness(30%);
+-o-filter: brightness(30%);
+-ms-filter: brightness(30%);
+}
+.logo{
+position: absolute;
+}
+.menu-items{
+ color: white;
+    position: absolute;
+    top: 10px;
+    left: 300px;
+    
+}
+.two{
+color: white;
+}
