@@ -18,24 +18,19 @@ position: relative;
 }
 	
 		.sidecontentpullout {
-			background-color: Black;
+			background-color: transparent;
 			color: White;
-			padding: 4px 3px;
-			-moz-border-radius-bottomleft: 1em;
-			-moz-border-radius-topleft: 1em;
-			-webkit-border-bottom-left-radius: 1em;
-			-webkit-border-top-left-radius: 1em;
-			border-bottom-left-radius: 1em;
-			border-top-left-radius: 1em;
+			padding: 14px 13px;
+			
 		}
 		
 		.sidecontentpullout:hover {
-			background-color: #444444;
+			background-color:transparent;
 			color: White;
 		}
 		
 		.sidecontent {
-			background-color: Black;
+			background-color:transparent;
 			color: White;
 			-moz-border-radius-bottomleft: 1em;
 			-webkit-border-bottom-left-radius: 1em;
@@ -46,4 +41,65 @@ position: relative;
 			padding-left: 10px;
 			padding-right: 40px;
 		}
-	</style>
+	
+.custom-contain{
+height: 350px;
+border: 2px solid green;
+    margin-top: 50px;
+
+}
+.header-custom{
+    height: 50px;
+    border-bottom: 2px solid green;
+    width: 100%;
+   
+    padding-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    
+}
+.set-image{
+ max-height:100%;
+    height:auto;
+    width:100%;
+    max-width:100%;
+    margin:auto
+}
+.contents{
+    width: 100%;
+    height: 200px;
+    border-bottom: 2px solid green;
+    
+    
+}
+.summary{
+  width: 100%;
+    height: 50px; 
+    margin-top: 10px;
+}
+.left-sum{
+float: left;
+}
+.right-sum{
+float: right;
+}
+
+.phone-text{
+    color: green;
+    border: green 2px solid;
+    width: 50%;
+    background-color: transparent;
+}
+.footer{
+    font-size:xx-small;
+    
+}
+.tabular{
+ background:url(../img/yours.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    
+    
+}
