@@ -139,6 +139,7 @@ height: auto;
 }
 .groove-item-large{
     height: 400px;
+    cursor: pointer;
     
 }
 .one-p:hover{
@@ -149,4 +150,15 @@ height: auto;
 .groove-item-large:hover{
 border: 1px solid grey;
     
+}
+.support-ingwe{
+    width: 100%;
+    height: 300px;
+    background: url(../img/bg-ingwe.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ingwe-supported{
+background: white;
+
 }
