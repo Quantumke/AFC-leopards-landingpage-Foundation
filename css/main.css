@@ -113,10 +113,15 @@ height: 500px;
 }
 .shop{
     width: 100%;
-    height: 300px;
+    height: auto;
      
 }
 .items-shop{
-height: 300px;
-    background: red;
+height: auto;
+   background: white;
+}
+.groove-item-large{
+    height: 300px;
+    border: 2px solid red;
+    
 }
