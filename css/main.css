@@ -122,6 +122,10 @@ height: auto;
 }
 .groove-item-large{
     height: 300px;
-    border: 2px solid red;
     
+}
+.one-p:hover{
+    background: #4967C2;
+    color: white;
+    cursor: pointer;
 }
