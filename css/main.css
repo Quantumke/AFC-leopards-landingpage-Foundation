@@ -159,6 +159,7 @@ border: 1px solid grey;
     background-repeat: no-repeat;
 }
 .ingwe-supported{
-background: white;
+position: relative;
+    top: 30px;
 
 }
