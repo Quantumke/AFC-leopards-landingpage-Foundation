@@ -66,6 +66,20 @@ border: 2px solid green;
     max-width:100%;
     margin:auto
 }
+.set-image{
+ max-height:100%;
+    height:200px;
+    width:100%;
+    max-width:100%;
+    margin:auto
+}
+.set-image-a{
+ max-height:100%;
+    height:auto;
+    width:100%;
+    max-width:100%;
+    margin:auto
+}
 .contents{
     width: 100%;
     height: 200px;
@@ -121,11 +135,15 @@ height: auto;
    background: white;
 }
 .groove-item-large{
-    height: 300px;
+    height: 400px;
     
 }
 .one-p:hover{
     background: #4967C2;
     color: white;
     cursor: pointer;
+}
+.groove-item-large:hover{
+border: 1px solid grey;
+    
 }
