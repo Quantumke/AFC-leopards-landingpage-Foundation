@@ -130,6 +130,9 @@ height: 500px;
     height: auto;
      
 }
+.yes-img{
+    cursor: pointer;
+}
 .items-shop{
 height: auto;
    background: white;
